@@ -14,6 +14,10 @@ Users can
 - 🚴‍ **Cylcing** <br>
  'distance', 'duration', 'cadence' 
 
+## 📽 Project Overview
+<img width="1433" alt="Screen Shot 2022-01-17 at 22 13 19" src="https://user-images.githubusercontent.com/94627346/149837565-45d99e4d-d387-4d84-862a-f878b1417a28.png">
+
+
 ## Technologies
 - Browser API (Geolocation)
 - Third party library 'Leaflet'(https://leafletjs.com/)
